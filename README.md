@@ -1,2 +1,1 @@
-# training
-tutorials
+# mini-games
